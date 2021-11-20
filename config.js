@@ -14,7 +14,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ISI APIKEY LU',
+  'https://api.xteam.xyz': '66abe40f792db817',
   'https://recoders-area.caliph.repl.co': 'FreeApi',
   'https://vhtear.com': 'AdiOfficial404',
   'https://api.zeks.xyz': 'apivinz'
